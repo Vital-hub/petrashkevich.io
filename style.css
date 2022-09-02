@@ -1,10 +1,8 @@
 body {
   margin: 0;
-
-  /* BEGIN (write your solution here) */
+  tecst-align: center;
   font-size: 18px;
-  color: #333;
-  /* END */
+  color: #333; 
   font-family: sans-serif;
   line-height: 1.5;
 }
