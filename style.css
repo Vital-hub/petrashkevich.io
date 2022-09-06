@@ -58,6 +58,6 @@ li {
 
 .inlain-block {
   display: inline-block;
-	color: green;
+  border: 2px soled #00648f;
 }
 /* END */
