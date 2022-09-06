@@ -58,5 +58,6 @@ li {
 
 .inlain-block {
   display: inline-block;
+	color: green;
 }
 /* END */
