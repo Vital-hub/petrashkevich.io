@@ -56,4 +56,7 @@ li {
 	margin-bottom: 10px;
 }
 
+.inlain-block {
+  display: inline-block;
+}
 /* END */
